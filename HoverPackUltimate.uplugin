@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Hover Pack Ultimate",
+	"Description": "The ultimate hover pack.",
+	"Category": "Modding",
+	"CreatedBy": "Isotope",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Enabled": true,
+			"Name": "SML",
+			"SemVersion": "^3.8.0",
+			"bIsOptional": false
+		}
+	],
+	"GameVersion": ">=365306"
+}
