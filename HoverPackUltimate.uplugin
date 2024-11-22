@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"VersionName": "1.0.3",
+	"SemVersion": "1.0.3",
 	"FriendlyName": "Hover Pack Ultimate",
 	"Description": "The ultimate hover pack with almost no power consumption and unlimited range.",
 	"Category": "Modding",
