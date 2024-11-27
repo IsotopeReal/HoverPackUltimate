@@ -1,4 +1,6 @@
 <strong>Support me on [Patreon](https://patreon.com/realisotope) or [Ko-Fi](https://ko-fi.com/isotope) </strong>💙  
+Source is available for anyone to freely use, modify or update.  
+I grant the SMM team permission to update this mod in the event that I become inactive.
 
 <img src="https://i.imgur.com/337lEnx.png">
 
