@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.5",
-	"SemVersion": "1.0.5",
+	"VersionName": "1.0.6",
+	"SemVersion": "1.0.6",
 	"FriendlyName": "Hover Pack Ultimate",
 	"Description": "The ultimate hover pack with almost no power consumption and unlimited range. Values can be configured in-game.",
 	"Category": "Modding",
@@ -19,9 +19,9 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.8.0",
+			"SemVersion": "^3.11.1",
 			"bIsOptional": false
 		}
 	],
-	"GameVersion": ">=382498"
+	"GameVersion": ">=416835"
 }
